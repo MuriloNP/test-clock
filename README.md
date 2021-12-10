@@ -8,4 +8,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ##
 
-- [Link do projeto](https://murilonp.github.io/test-clock/public)
+- [Link do projeto](https://murilonp.github.io/test-clock/Public)
